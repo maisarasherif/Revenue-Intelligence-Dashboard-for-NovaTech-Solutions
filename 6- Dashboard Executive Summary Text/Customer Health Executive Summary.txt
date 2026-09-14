@@ -1,0 +1,10 @@
+Customer Health
+The sheet provides a comprehensive overview of customer support operations, tracking 3,000 total tickets across priority levels, product areas, sentiment, and resolution performance.
+
+Resolution times are nearly uniform across priorities—low at 58.9 hours, high at 57.6 hours, and medium at 57.5 hours—suggesting high-priority tickets are not being fast-tracked.
+
+Negative sentiment accounts for 22.8% of interactions, with 684 tickets classified as Negative compared to only 304 as Positive.
+
+Notifications leads support demand with 601 tickets, while Data Pipeline has the fewest at 310.
+
+Ticket volume is trending downward, with a 3-month compounded growth rate of -3.64%, dropping to 119 tickets in Feb 2025.

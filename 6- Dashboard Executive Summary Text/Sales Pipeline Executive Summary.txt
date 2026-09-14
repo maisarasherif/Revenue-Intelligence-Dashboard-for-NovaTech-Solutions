@@ -1,0 +1,10 @@
+Sales Pipeline
+The sheet provides a comprehensive sales performance overview, tracking revenue, deal volume, win rates, and loss analysis across the pipeline.
+
+Total won revenue reached $707,201 across 315 won deals out of 499 total, achieving a strong win rate of 63.13%.
+
+Enterprise and Large company sizes collectively dominate revenue, contributing 319,423 and 271,613 respectively, while Medium accounts for just 58,192.
+
+Deals take an average of 66.8 days to close, with an average won deal value of $2,245.
+
+The top loss reasons—No Decision Made (43) and Poor Product Fit (43)—suggest indecision and product-market misalignment are key challenges to address.
